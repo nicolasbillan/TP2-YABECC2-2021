@@ -4,8 +4,9 @@
  *
  * Un string es valido si
  * 1.- Todas las aperturas ( { y [ tienen su cierre.
- * 2.- Todos los cierres estan en el orden correcto
- *
+ * 2.- Todos los cierres estan en el orden correcto 
+ * TIP: Utilizando pilas y colas de arrays
+ * TIP: Utilizar cadenas y replace
  */
 
 /**
