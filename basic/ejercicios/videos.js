@@ -25,3 +25,12 @@ const str = `<ul>
 // Tip: Obtener un array de objetos, donde cada objeto sea un video
 // {min:5, seg: 59, tipo: 'Redux Video'}
 
+function parseLi(s) {}
+
+function parseVideo(s) {
+  s ='<li data-time="3:31">Flexbox Video</li>';
+
+  
+
+  return { min: 1, seg: 10, tipo: "" };
+}
