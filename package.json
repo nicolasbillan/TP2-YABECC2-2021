@@ -1,0 +1,23 @@
+{
+  "name": "tp2-nbillan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasbillan/TP2-YABECC2-2021.git"
+  },
+  "author": "nicolasbillan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasbillan/TP2-YABECC2-2021/issues"
+  },
+  "homepage": "https://github.com/nicolasbillan/TP2-YABECC2-2021#readme"
+}
